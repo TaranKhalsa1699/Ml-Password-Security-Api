@@ -165,6 +165,4 @@ Pull requests are welcome.
 For major changes, open an issue first to discuss.
 
 📜 License
-
-MIT License
 Free for personal and commercial use.
